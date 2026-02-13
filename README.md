@@ -331,13 +331,3 @@ Your methodology is solid and production-ready. This implementation follows your
 4. Use the trained model for predictions
 5. Deploy if satisfied with performance
 
-## Author Notes
-
-This project demonstrates a complete ML pipeline for delivery time prediction using:
-- Proper data preprocessing
-- Feature engineering (especially distance calculation)
-- Multiple model comparison
-- Industry-standard evaluation metrics
-- Production-ready code structure
-
-Your understanding of the problem and approach is excellent!
